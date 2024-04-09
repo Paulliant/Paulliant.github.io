@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# Education
+## Education 
 
-## Bachelor of Computer Science <small>at Jilin University</small> 
-
-### 09.2021 - Present
+### Bachelor of Computer Science <small>at Jilin University</small> 
 
 **Academic Performance:**
 - GPA: 3.94/4.0
@@ -25,7 +23,7 @@ redirect_from:
 - Linear Algebra
 - Mathematical Analysis
 
-# Getting started
+## Getting started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
