@@ -9,4 +9,4 @@ redirect_from:
 
 I am a Junior undergraduate student from [College of Computer Science and Technology](https://ccst.jlu.edu.cn/index.htm), [Jilin University](https://www.jlu.edu.cn/). My research interest includes deep learning, spatial-temporal data mining and natural language processing.
 
-You can reach my CV by [here](../files/CV_ChenMinghao.pdf).
+You can access my CV [here](https://paulliant.github.io/files/CV_ChenMinghao.pdf).
